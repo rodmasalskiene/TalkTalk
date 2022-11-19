@@ -8,6 +8,10 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodmasalskiene/Talk-Talk.git"
+  },
   "dependencies": {
     "expo": "~47.0.6",
     "expo-status-bar": "~1.4.2",
